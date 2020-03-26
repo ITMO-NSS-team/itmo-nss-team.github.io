@@ -1,8 +1,7 @@
 ---
 title: "NSS TEAM"
 date: 2020-03-26
-author: GitHub User
-email: your-email@domain.com
+---
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,4 +13,4 @@ twitter_username: your-twitter-handle # DO NOT include the @ character, or else 
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
----
+
