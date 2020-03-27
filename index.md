@@ -46,4 +46,20 @@ Noymanee J., Nikitin N. O., Kalyuzhnaya A. V. [Urban Pluvial Flood Forecasting u
 Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by crowdsourced atmospheric data](https://www.researchgate.net/publication/336079909_The_cities_weather_forecasting_by_crowdsourced_atmospheric_data)
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  # Some of us
- ![ak](/github-pages-with-jekyll/ak.jpg) Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru): Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML
+![ak](/github-pages-with-jekyll/ak.jpg) 
+
+Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru): Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML
+
+![nn](/github-pages-with-jekyll/nn.jpg) 
+
+Nikolay Nikitin(nnikitin@itmo.ru): Intelligent optimization algorithms, model tuning, generative AutoMl framework development
+
+![ah](/github-pages-with-jekyll/ah.jpg)
+
+Alexander Hvatov(alex_hvatov@itmo.ru): Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.
+
+![pv](/github-pages-with-jekyll/pv.jpg)
+
+Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru): Data-driven system lifecycle management algorithms, software implementation, and QA
+And Irina Deeva, Yana Poloskaya, Mikhail Maslyaev, Petr Andryuschenko, etc.
+# Follow us via [GitHub](https://github.com/ITMO-NSS-team), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
