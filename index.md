@@ -1,8 +1,16 @@
 # NSS Team
 
 ## Here are some of our projects:
+
+### FEDOT
+#### FEDOT is a framework for generative automatic machine learning, helping to create complex composite models that enable efficient solution of various applications
+Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations Discovery with Evolutionary Approach](https://www.researchgate.net/publication/333664933_Data-Driven_Partial_Derivative_Equations_Discovery_with_Evolutionary_Approach) //International Conference on Computational Science. – Springer, Cham, 2019. – С. 635-641.
+
+Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
+
+Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
 ### Metocean Simulation
-#### Goal: Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
+#### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
 
 Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationary Environmental Time Series Using Sparse Regression](https://www.researchgate.net/publication/336081847_Pattern_Recognition_in_Non-Stationary_Environmental_Time_Series_Using_Sparse_Regression)
 //Procedia Computer Science. – 2019. – Т. 156. – С. 357-366.
@@ -19,7 +27,7 @@ Hvatov A. et al.[Adaptation of NEMO-LIM3 model for multi-grid high-resolutional 
 
 ### Social Media Study
 
-#### Goal:Investigation of social media profiles and activities for personality prediction 
+#### Investigation of social media profiles and activities for personality prediction 
 
 Kalyuzhnaya A. V. et al. [Precedent-Based Approach for the Identification of Deviant Behavior in Social Media](https://www.researchgate.net/publication/325715988_Precedent-Based_Approach_for_the_Identification_of_Deviant_Behavior_in_Social_Media) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 846-852.
 
@@ -30,7 +38,7 @@ Deeva I. [Computational Personality Prediction Based on Digital Footprint of a S
 
 ### Weather Forecasting
 
-#### Goal: Forecasting of natural accidents and weather conditions 
+#### Forecasting of natural accidents and weather conditions 
 
 Noymanee J., Nikitin N. O., Kalyuzhnaya A. V. [Urban Pluvial Flood Forecasting using Open Data with Machine Learning in Pattani Basin](https://www.researchgate.net/publication/321459341_Urban_Pluvial_Flood_Forecasting_using_Open_Data_with_Machine_Learning_Techniques_in_Pattani_Basin) //Procedia computer science. – 2017. – Т. 119. – С. 288-297.
 
