@@ -15,15 +15,16 @@ Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scori
 Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationary Environmental Time Series Using Sparse Regression](https://www.researchgate.net/publication/336081847_Pattern_Recognition_in_Non-Stationary_Environmental_Time_Series_Using_Sparse_Regression)
 //Procedia Computer Science. – 2019. – Т. 156. – С. 357-366.
 
-Vychuzhanin P., Hvatov A., Kalyuzhnaya A. V. [Anomalies Detection in Metocean Simulation Results using CNN](https://www.researchgate.net/publication/327900515_Anomalies_Detection_in_Metocean_Simulation_Results_Using_Convolutional_Neural_Networks) //Procedia Computer Science. – 2018. – Т. 136. – С. 321-330.
+Vychuzhanin P., Hvatov A., Kalyuzhnaya A. V. [Anomalies Detection in Metocean Simulation Results using CNN](https://www.researchgate.net/publication/327900515_Anomalies_Detection_in_Metocean_Simulation_Results_Using_Convolutional_Neural_Networks) //Procedia Computer Science. – 2018. – Т. 136. – С. 321-330. [View on GitHub](https://github.com/ITMO-NSS-team/AnomaliesDetector)
 
 Vychuzhanin P., Nikitin N. O., Kalyuzhnaya A. V. [Robust Ensemble-Based Evolutionary Calibration of the Numerical Wind Wave Model](https://www.researchgate.net/publication/333665595_Robust_Ensemble-Based_Evolutionary_Calibration_of_the_Numerical_Wind_Wave_Model)
- //International Conference on Computational Science. – Springer, Cham, 2019. – С. 614-627.
+ //International Conference on Computational Science. – Springer, Cham, 2019. – С. 614-627. [View on GitHub](https://github.com/ITMO-NSS-team/SwanEvolution)
  
 Araya-Lopez J. L., Nikitin N. O., Kaluzhnaya A. V. [Case-adaptive ensemble technique for metocean data restoration](https://www.researchgate.net/publication/327901758_Case-adaptive_ensemble_technique_for_met-ocean_data_restoration) //Procedia Computer Science. – 2018. – Т. 136. – С. 311-320.
 
 Hvatov A. et al.[Adaptation of NEMO-LIM3 model for multi-grid high-resolutional Arctic simulation](https://www.researchgate.net/publication/335092481_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation)
-//Ocean Modelling. – 2019. – Т. 141. – С. 101427.
+//Ocean Modelling. – 2019. – Т. 141. – С. 101427. [View on GitHub](https://github.com/ITMO-NSS-team/nemo-multigrid-adaptation)
+
 
 ### Social Media Study
 
