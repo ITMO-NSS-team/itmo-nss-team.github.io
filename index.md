@@ -63,5 +63,6 @@ Alexander Hvatov(alex_hvatov@itmo.ru): Evolutionary algorithms for data-driven m
 ![pv](/github-pages-with-jekyll/pv.jpg)
 
 Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru): Data-driven system lifecycle management algorithms, software implementation, and QA
+
 And Irina Deeva, Yana Poloskaya, Mikhail Maslyaev, Petr Andryuschenko, etc.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
