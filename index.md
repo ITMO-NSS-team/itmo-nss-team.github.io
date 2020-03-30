@@ -67,11 +67,10 @@ Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru): Data-driven system lifecycle manag
 
 And Irina Deeva, Yana Poloskaya, Mikhail Maslyaev, Petr Andryuschenko, etc.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
-| ![ak](/github-pages-with-jekyll/ak.jpg)      |Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML
-| ------------- |:------------------:| -----:|
-| ![nn](/github-pages-with-jekyll/nn.jpg)    | Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
-| ![ah](/github-pages-with-jekyll/ah.jpg)
-   | Alexander Hvatov(alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.  |
+| ![ak](/github-pages-with-jekyll/ak.jpg) |Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
-|![pv](/github-pages-with-jekyll/pv.jpg)
- | Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru)       | Data-driven system lifecycle management algorithms, software implementation, and QA   </head> |
+| ![nn](/github-pages-with-jekyll/nn.jpg)    | Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
+
+| ![ah](/github-pages-with-jekyll/ah.jpg)| Alexander Hvatov(alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.  |
+
+|![pv](/github-pages-with-jekyll/pv.jpg) | Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru)       | Data-driven system lifecycle management algorithms, software implementation, and QA   </head> |
