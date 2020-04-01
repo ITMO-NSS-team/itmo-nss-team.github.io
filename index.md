@@ -47,15 +47,14 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
 # Some of us
- ![ak](/github-pages-with-jekyll/ak.jpg) <!--{width=23px}--> 
- 
- |<img src="ak.jpg" alt="drawing" width="600"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
-|<img src="nn.jpg" alt="drawing" width="600"/>|| Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
+ |<img src="ak.jpg" alt="drawing" width="600"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
-|<img src="ah.jpg" alt="drawing" width="600"/>|| Alexander Hvatov(alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.  |
+|<img src="nn.jpg" alt="drawing" width="400"/>|| Nikolay Nikitin (nnikitin@itmo.ru)| Intelligent optimization algorithms, model tuning, generative AutoMl framework development|
 
-|<img src="pv.jpg" alt="drawing" width="600"/>|| Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru)       | Data-driven system lifecycle management algorithms, software implementation, and QA   </head> |
+|<img src="ah.jpg" alt="drawing" width="400"/>|| Alexander Hvatov (alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.|
+
+|<img src="pv.jpg" alt="drawing" width="600"/>|| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle management algorithms, software implementation, and QA </head>|
 
 
 And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov, Valentin Kylev.
