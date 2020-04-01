@@ -54,7 +54,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 |<img src="ah.jpg" alt="drawing" width="400"/>|| Alexander Hvatov (alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.|
 
-|<img src="pv.jpg" alt="drawing" width="530"/>|| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle management algorithms, software implementation, and QA </head>|
+|<img src="pv.jpg" alt="drawing" width="530"/> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp|| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle management algorithms, software implementation, and QA </head>|
 
 
 And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov, Valentin Kylev.
