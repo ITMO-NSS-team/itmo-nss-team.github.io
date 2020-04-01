@@ -49,13 +49,13 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 # Some of us
  
  
-| ![ak](/github-pages-with-jekyll/ak.jpg) |Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
+|![ak](/github-pages-with-jekyll/ak.jpg)|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
-| ![nn](/github-pages-with-jekyll/nn.jpg)	| Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
+|![nn](/github-pages-with-jekyll/nn.jpg)| Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
 
-| ![ah](/github-pages-with-jekyll/ah.jpg)| Alexander Hvatov(alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.  |
+|![ah](/github-pages-with-jekyll/ah.jpg)| Alexander Hvatov(alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.  |
 
-|![pv](/github-pages-with-jekyll/pv.jpg) | Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru)       | Data-driven system lifecycle management algorithms, software implementation, and QA   </head> |
+|![pv](/github-pages-with-jekyll/pv.jpg)| Pavel Vychuzhanin(pavel.vychuzhanin@itmo.ru)       | Data-driven system lifecycle management algorithms, software implementation, and QA   </head> |
 
 
 And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov, Valentin Kylev.
