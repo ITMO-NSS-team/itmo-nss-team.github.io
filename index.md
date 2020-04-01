@@ -60,15 +60,10 @@ And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasi
 
 
 |Member    | Contacts | Main scientific projects |
-
 | ------------------------------------- | :-----------: | :-------------------------------- |
-
 |<img src="ak.jpg" alt="drawing" width="630"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
-
 |<img src="nn.jpg" alt="drawing" width="400"/>| Nikolay Nikitin (nnikitin@itmo.ru)| Intelligent optimization algorithms, model tuning, generative AutoMl framework development|
-
 |<img src="ah.jpg" alt="drawing" width="400"/>| Alexander Hvatov (alex_hvatov@itmo.ru)| Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc.|
-
 |<img src="pv.jpg" alt="drawing" width="450"/>| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle management algorithms, software implementation, and QA </head>|
 
 
