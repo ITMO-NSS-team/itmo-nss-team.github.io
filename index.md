@@ -47,8 +47,8 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
 # Some of us
-
- |<img src="ak.jpg" alt="drawing" width="630"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
+| -------------------------------- | ---- | ---- |
+|<img src="ak.jpg" alt="drawing" width="630"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
 |<img src="nn.jpg" alt="drawing" width="400"/>| Nikolay Nikitin (nnikitin@itmo.ru)| Intelligent optimization algorithms, model tuning, generative AutoMl framework development|
 
@@ -59,17 +59,3 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov, Valentin Kylev.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
-<style>
-table th:first-of-type {
-    width: 10%;
-}
-table th:nth-of-type(2) {
-    width: 10%;
-}
-table th:nth-of-type(3) {
-    width: 50%;
-}
-table th:nth-of-type(4) {
-    width: 30%;
-}
-</style>
