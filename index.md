@@ -49,7 +49,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 # Some of us
  
  
- |![ak](/github-pages-with-jekyll/ak.jpg)   |Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
+ |![ak](/github-pages-with-jekyll/ak.jpg)<img width=200/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
 |![nn](/github-pages-with-jekyll/nn.jpg)| Nikolay Nikitin(nnikitin@itmo.ru)  | Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
 
