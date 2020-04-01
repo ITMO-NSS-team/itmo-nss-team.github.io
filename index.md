@@ -47,7 +47,10 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
 # Some of us
-| -------------------------------- | ---- | ---- |
+|Member    | Contacts | Main scientific projects |
+
+| ------------------------------------- | ----------- | -------------------------------- |
+
 |<img src="ak.jpg" alt="drawing" width="630"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML|
 
 |<img src="nn.jpg" alt="drawing" width="400"/>| Nikolay Nikitin (nnikitin@itmo.ru)| Intelligent optimization algorithms, model tuning, generative AutoMl framework development|
