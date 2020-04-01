@@ -48,7 +48,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  
 # Some of us
 
- |<img src="ak.jpg" alt="drawing" width="600"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory 
+ |<img src="ak.jpg" alt="drawing" width="630"/>|Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory 
  
  and Master 's Program "Digital Geotechnologies." 
  
@@ -68,7 +68,7 @@ for data-driven modeling, differential
 
 equations, acoustics, etc.|
 
-|<img src="pv.jpg" alt="drawing" width="600"/>|| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle 
+|<img src="pv.jpg" alt="drawing" width="530"/>|| Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)| Data-driven system lifecycle 
 
 management algorithms, 
 
