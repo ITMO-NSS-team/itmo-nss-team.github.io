@@ -21,6 +21,8 @@ Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationar
 Hvatov A. et al.[Adaptation of NEMO-LIM3 model for multi-grid high-resolutional Arctic simulation](https://www.researchgate.net/publication/335092481_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation)
 //Ocean Modelling. – 2019. – Т. 141. – С. 101427. [View on GitHub](https://github.com/ITMO-NSS-team/nemo-multigrid-adaptation)
 
+Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://arxiv.org/abs/2004.03010) //arXiv preprint arXiv:2004.03010. – 2020.
+
 Nikitin N. O. et al. [Deadline-driven approach for multi-fidelity surrogate-assisted environmental model calibration: SWAN wind wave model case study](https://dl.acm.org/doi/abs/10.1145/3319619.3326876) //Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2019. – С. 1583-1591. [View on GitHub](https://github.com/ITMO-NSS-team/FEDOT.Algs)
 
 Vychuzhanin P., Hvatov A., Kalyuzhnaya A. V. [Anomalies Detection in Metocean Simulation Results using CNN](https://www.researchgate.net/publication/327900515_Anomalies_Detection_in_Metocean_Simulation_Results_Using_Convolutional_Neural_Networks) //Procedia Computer Science. – 2018. – Т. 136. – С. 321-330. [View on GitHub](https://github.com/ITMO-NSS-team/AnomaliesDetector)
