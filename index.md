@@ -18,7 +18,7 @@ Araya-Lopez J. L., Nikitin N. O., Kaluzhnaya A. V. [Case-adaptive ensemble techn
 Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationary Environmental Time Series Using Sparse Regression](https://www.researchgate.net/publication/336081847_Pattern_Recognition_in_Non-Stationary_Environmental_Time_Series_Using_Sparse_Regression)
 //Procedia Computer Science. – 2019. – Т. 156. – С. 357-366.
 
-Hvatov A. et al.[Adaptation of NEMO-LIM3 model for multi-grid high-resolutional Arctic simulation](https://www.researchgate.net/publication/335092481_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation)
+Hvatov A. et al. [Adaptation of NEMO-LIM3 model for multi-grid high-resolutional Arctic simulation](https://www.researchgate.net/publication/335092481_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation)
 //Ocean Modelling. – 2019. – Т. 141. – С. 101427. [View on GitHub](https://github.com/ITMO-NSS-team/nemo-multigrid-adaptation)
 
 Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://arxiv.org/abs/2004.03010) //arXiv preprint arXiv:2004.03010. – 2020.
