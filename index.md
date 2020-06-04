@@ -62,6 +62,6 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
 
-And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov, Valentin Kylev.
+And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
