@@ -3,13 +3,14 @@
 ## Here are some of our projects:
 
 ### FEDOT
-#### FEDOT is a framework for generative automatic machine learning, helping to create complex composite models that enable efficient solution of various applications [View on GitHub](https://github.com/ITMO-NSS-team/FEDOT.Algs)
+#### FEDOT is a framework for knowledge-enriched automated machine learning, helping to create complex composite models that enable efficient solution of various applications 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations Discovery with Evolutionary Approach](https://www.researchgate.net/publication/333664933_Data-Driven_Partial_Derivative_Equations_Discovery_with_Evolutionary_Approach) //International Conference on Computational Science. – Springer, Cham, 2019. – С. 635-641.
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
 Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
 
+For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
  
