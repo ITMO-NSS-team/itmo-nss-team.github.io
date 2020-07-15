@@ -4,7 +4,7 @@
 
 ### FEDOT
 #### FEDOT is a framework for knowledge-enriched automated machine learning, helping to create complex composite models that enable efficient solution of various applications 
-Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using evolutionary approach](https://arxiv.org/pdf/2004.01680.pdf) //arXiv preprint arXiv:2004.01680. – 2020.
+Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using evolutionary approach](https://arxiv.org/pdf/2004.01680.pdf) // Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. - 2020. - C. 129–130.
 
 Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/pdf/10.1145/3377929.3398167?casa_token=vjmVJTzfcf8AAAAA:juxWF2cvTe4vwR9EDqkt7_UWwH3TuwKW4jo7rv-d5kBT6cV7qMhDTvz3nMOsShnLXWCFvC39k3Hd) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
 
