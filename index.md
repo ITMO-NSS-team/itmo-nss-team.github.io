@@ -4,6 +4,10 @@
 
 ### FEDOT
 #### FEDOT is a framework for knowledge-enriched automated machine learning, helping to create complex composite models that enable efficient solution of various applications 
+Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using evolutionary approach](https://arxiv.org/pdf/2004.01680.pdf) //arXiv preprint arXiv:2004.01680. – 2020.
+
+Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/pdf/10.1145/3377929.3398167?casa_token=vjmVJTzfcf8AAAAA:juxWF2cvTe4vwR9EDqkt7_UWwH3TuwKW4jo7rv-d5kBT6cV7qMhDTvz3nMOsShnLXWCFvC39k3Hd) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
+
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations Discovery with Evolutionary Approach](https://www.researchgate.net/publication/333664933_Data-Driven_Partial_Derivative_Equations_Discovery_with_Evolutionary_Approach) //International Conference on Computational Science. – Springer, Cham, 2019. – С. 635-641.
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
@@ -63,6 +67,6 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
 
-And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Elchin Kerimov, Mark Merezhnikov.
+And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
