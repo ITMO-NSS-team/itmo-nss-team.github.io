@@ -4,20 +4,37 @@
 
 ### FEDOT
 #### FEDOT is a framework for knowledge-enriched automated machine learning, helping to create complex composite models that enable efficient solution of various applications 
-Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using evolutionary approach](https://arxiv.org/pdf/2004.01680.pdf) // Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. - 2020. - C. 129–130.
+
+Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
 
 Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/pdf/10.1145/3377929.3398167?casa_token=vjmVJTzfcf8AAAAA:juxWF2cvTe4vwR9EDqkt7_UWwH3TuwKW4jo7rv-d5kBT6cV7qMhDTvz3nMOsShnLXWCFvC39k3Hd) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
+
+
+Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
+
+For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
+
+### EPDE framework
+#### 
+Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
+
+Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
+
+Merezhnikov M., Hvatov A. [Closed-form algebraic expressions discovery using combined evolutionary optimization and sparse regression approach](https://www.sciencedirect.com/science/article/pii/S1877050920324236) // Procedia Computer Science. – 2020. – Т. 178. – С. 424-433.
+
+Maslyaev M., Hvatov A., Kalyuzhnaya A. [Discovery of the data-driven models of continuous metocean process in form of nonlinear ordinary differential equations](https://www.sciencedirect.com/science/article/pii/S1877050920323760) //Procedia Computer Science. – 2020. – Т. 178. – С. 18-26.
+
+Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using evolutionary approach](https://arxiv.org/pdf/2004.01680.pdf) // Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. - 2020. - C. 129–130.
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations Discovery with Evolutionary Approach](https://www.researchgate.net/publication/333664933_Data-Driven_Partial_Derivative_Equations_Discovery_with_Evolutionary_Approach) //International Conference on Computational Science. – Springer, Cham, 2019. – С. 635-641.
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
-Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
-
-For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
- 
+
+Sarafanov M. et al. [A Machine Learning Approach for Remote Sensing Data Gap-Filling with Open-Source Implementation: An Example Regarding Land Surface Temperature, Surface Albedo and NDVI](https://www.mdpi.com/2072-4292/12/23/3865) //Remote Sensing. – 2020. – Т. 12. – №. 23. – С. 3865.
+
 Araya-Lopez J. L., Nikitin N. O., Kaluzhnaya A. V. [Case-adaptive ensemble technique for metocean data restoration](https://www.researchgate.net/publication/327901758_Case-adaptive_ensemble_technique_for_met-ocean_data_restoration) //Procedia Computer Science. – 2018. – Т. 136. – С. 311-320.
 
 Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationary Environmental Time Series Using Sparse Regression](https://www.researchgate.net/publication/336081847_Pattern_Recognition_in_Non-Stationary_Environmental_Time_Series_Using_Sparse_Regression)
