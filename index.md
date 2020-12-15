@@ -3,7 +3,7 @@
 ## Here are some of our projects:
 
 ### FEDOT
-#### FEDOT is a framework for knowledge-enriched automated machine learning, helping to create complex composite models that enable efficient solution of various applications 
+#### FEDOT is a framework for automated modeling and machine learning. It can build composite models for the different real-world processes in an automated way using an evolutionary approach.
 
 Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
 
@@ -15,7 +15,7 @@ Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scori
 For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
 
 ### EPDE framework
-
+#### EPDE is a framework for the identification of the equation-based model (e.g. ODE, PDE) for the different physical processes.
 Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
