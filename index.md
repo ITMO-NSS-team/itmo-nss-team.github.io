@@ -15,7 +15,7 @@ Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scori
 For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
 
 ### EPDE framework
-#### 
+
 Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
@@ -84,6 +84,6 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
 
-And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov.
+And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov, Mikhail Sarafanov.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
