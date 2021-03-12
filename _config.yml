@@ -1,12 +1,11 @@
-title: "NSS TEAM"
+title: "NSS Lab"
 date: 2020-03-26
 theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
-  Our team is part of eScience Research Institute (ITMO University, Russia), which provides cutting-edge knowledge-intensive software and solutions. We focus on natural systems simulations, modelling and optimization tasks. Our research (examples are below) will be useful in forecasting and preventing of natural disasters, accident consequences management, rescue operations, risk-assessment and other tasks.
-
+Our laboratory is part of the National Center for Cognitive Technologies (ITMO University, Russia), which provides cutting-edge software and algorithmic solutions. We focus on natural systems simulations, generative design of real and virtual objects, data-driven modeling, automated machine learning.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  https://github.com/ITMO-NSS-team # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
