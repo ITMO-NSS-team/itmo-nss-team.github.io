@@ -12,8 +12,6 @@ Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach f
 
 Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://arxiv.org/abs/2103.01301) //arXiv preprint arXiv:2103.01301. – 2021.
 
-Deeva I. et al. [Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning of Bayesian Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. – 2021.
-
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
 
 Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
@@ -23,6 +21,19 @@ Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models wi
 Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
 
 The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
+
+### Bayesian Analytical and Modelling Toolkit
+#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
+
+Andriushchenko P.D., Kalyuzhnaya A.V., Boukhanovsky A.V. [Bayesian Networks-based personal data synthesis](https://dl.acm.org/doi/abs/10.1145/3411170.3411243?casa_token=L3ckOXS-ocoAAAAA%3AgFfEnScGXFvW-A9clmUaRHuJtf5gl9-GVPRziORtfx1U5_e9CCQWWT9en7EC8BTJjmfg83JVLyTUCw) // ACM International Conference Proceeding Series - 2020, pp. 6-11
+
+Andriushchenko P.D.,Deeva I.Y., Kalyuzhnaya A.V., Bubnova А.V., Voskresensky А.G., Bukhanov N.V. [Analysis of parameters of oil and gas fields using Bayesian networks](https://elibrary.ru/item.asp?id=44382521) // Data Science in Oil and Gas 2020 - 2020. - С. 1-10
+
+Deeva I. et al. [Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning of 
+Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. – 2021.
+
+The repository is available in  [github](https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit)
+
 
 ### EPDE framework
 #### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
