@@ -21,7 +21,7 @@ Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models wi
 Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
 
 The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You can find documentation [here.](https://itmo-nss-team.github.io/FEDOT.Docs/)
-FEDOT overview posts are located on [Habr.](https://habr.com/ru/users/itmo_nsslab/posts/)
+
 ### Bayesian Analytical and Modelling Toolkit
 #### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
 
@@ -110,5 +110,10 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 
 And Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov, Mikhail Sarafanov, Gleb Maximov.
+
+## Habr articles
+
+[Как AutoML помогает создавать модели композитного ИИ — говорим о структурном обучении и фреймворке FEDOT](https://habr.com/ru/company/spbifmo/blog/558450/)
+[Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/)
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
