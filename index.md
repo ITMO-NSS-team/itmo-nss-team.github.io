@@ -14,8 +14,6 @@ Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-D
 
 Deeva I. et al. [Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning of Bayesian Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. – 2021.
 
-Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://arxiv.org/abs/2103.01301) //arXiv preprint arXiv:2103.01301. – 2021.
-
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
 
 Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
@@ -97,7 +95,9 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="nn.jpg" alt="drawing" width="400"/>     | Nikolay Nikitin (nnikitin@itmo.ru)      |  Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
+| <img src="id.jpg" alt="drawing" width="450"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
 
-And Irina Deeva, Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov, Mikhail Sarafanov, Gleb Maximov.
+
+And Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov, Mikhail Sarafanov, Gleb Maximov.
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
