@@ -5,6 +5,10 @@
 ### FEDOT framework
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
+Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
+
+
+
 Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://arxiv.org/abs/2103.01301) //arXiv preprint arXiv:2103.01301. – 2021.
 
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
