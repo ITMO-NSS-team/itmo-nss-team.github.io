@@ -95,7 +95,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="nn.jpg" alt="drawing" width="400"/>     | Nikolay Nikitin (nnikitin@itmo.ru)      |  Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
-| <img src="id.jpg" alt="drawing" width="500"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
+| <img src="id.jpg" alt="drawing" width="400"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
 
 
 And Yana Polonskaya, Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Irina Barabanova, Mark Merezhnikov, Mikhail Sarafanov, Gleb Maximov.
