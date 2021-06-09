@@ -2,8 +2,8 @@
 
 ## Here are some of our projects:
 
-### FEDOT
-#### FEDOT is a framework for automated modeling and machine learning. It can build composite models for the different real-world processes in an automated way using an evolutionary approach.
+### FEDOT framework
+#### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
 Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
 
@@ -12,7 +12,7 @@ Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models wi
 
 Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
 
-For more information,  see our GitHUb pages: [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs) and [Fedot](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
+The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You can find documentation [here](https://itmo-nss-team.github.io/FEDOT.Docs/)
 
 ### EPDE framework
 #### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
@@ -29,6 +29,8 @@ Hvatov A., Maslyaev M. [The data-driven physical-based equations discovery using
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations Discovery with Evolutionary Approach](https://www.researchgate.net/publication/333664933_Data-Driven_Partial_Derivative_Equations_Discovery_with_Evolutionary_Approach) //International Conference on Computational Science. – Springer, Cham, 2019. – С. 635-641.
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
+
+For more information, see [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs)/
 
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
