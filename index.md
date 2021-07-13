@@ -1,14 +1,18 @@
 # NSS Team
 
+<img src="ph1.png" alt="drawing" width="630"/>  <img src="ph2.png" alt="drawing" width="630"/>  
+
+
 ## Here are some of our projects:
 
 ### FEDOT framework
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
-Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
-
+Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://arxiv.org/pdf/2106.15397.pdf) //arXiv preprint arXiv:2106.15397. – 2021.
 
 Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://arxiv.org/abs/2103.01124) //arXiv preprint arXiv:2103.01124. – 2021.
+
+Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
 
 Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://arxiv.org/abs/2103.01301) //arXiv preprint arXiv:2103.01301. – 2021.
 
