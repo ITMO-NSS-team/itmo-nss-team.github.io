@@ -8,7 +8,7 @@
 ### FEDOT framework
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
-Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://arxiv.org/pdf/2106.15397.pdf) //arXiv preprint arXiv:2106.15397. – 2021.
+Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
 
 Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://arxiv.org/abs/2103.01124) //arXiv preprint arXiv:2103.01124. – 2021.
 
@@ -107,9 +107,8 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | Member        | Contacts           | Main scientific projects  |
 | ------------- |:-------------:| -------------:|
 | <img src="ak.jpg" alt="drawing" width="630"/>    | Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru)| Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML |
-| <img src="nn.jpg" alt="drawing" width="400"/>     | Nikolay Nikitin (nnikitin@itmo.ru)      |  Intelligent optimization algorithms, model tuning, generative AutoMl framework development |
+| <img src="nn.jpg" alt="drawing" width="400"/>     | Nikolay Nikitin (nnikitin@itmo.ru)      |  AutoML and composite models, generative design of digital and physical objects, numerical optimization, environmental simulation |
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
-| <img src="pv.jpg" alt="drawing" width="450"/> |  Pavel Vychuzhanin (pavel.vychuzhanin@itmo.ru)      |    Data-driven system lifecycle management algorithms, software implementation, and QA|
 | <img src="id.jpg" alt="drawing" width="400"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
 
 
