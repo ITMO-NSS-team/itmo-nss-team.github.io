@@ -112,7 +112,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="id.jpg" alt="drawing" width="400"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
 | <img src="sm.jpg" alt="drawing" width="400"/> |  Mikhail Sarafanov (mik_sar@itmo.ru)      |    Time series forecasting, software development of an AutoML framework, remote sensing data processing|
 | <img src="ub.jpg" alt="drawing" width="400"/> |  Julia Borisova (jul.borisova@itmo.ru)      |    Time series processing and predictive modeling, hybridization and ensemble learning, geoinformatics tasks|
-| <img src="gm.jpg" alt="drawing" width="400"/> |  Gleb Maximov      |    Expanding the functionality of the framework. Composite neural networks for object recognition|
+| <img src="mg.jpg" alt="drawing" width="400"/> |  Gleb Maximov      |    Expanding the functionality of the framework. Composite neural networks for object recognition|
 
 
 And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko, Ilya Revin, Mark Merezhnikov.
