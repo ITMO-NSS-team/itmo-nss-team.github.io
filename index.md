@@ -6,7 +6,7 @@
 ## Here are some of our projects:
 
 ### FEDOT framework
- <img src="fedot_logo1.jfif" alt="drawing" />
+ <img src="fedot_logo1.jfif" alt="drawing" width="250" />
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
 Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
