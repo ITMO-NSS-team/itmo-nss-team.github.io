@@ -1,6 +1,6 @@
 # NSS Team
 
-<img src="ph1.png" alt="drawing" width="400"/>  <img src="ph2.png" alt="drawing" width="400"/> 
+<img src="ph1.png" alt="drawing" width="300"/>  <img src="ph2.png" alt="drawing" width="300"/> <img src="group_img3.jpg" alt="drawing" width="300"/>
 
 
 ## Here are some of our projects:
