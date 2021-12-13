@@ -9,12 +9,14 @@
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
 
 Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
+ 
+Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
 
-Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://arxiv.org/abs/2103.01124) //arXiv preprint arXiv:2103.01124. – 2021.
+Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.
 
 Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
 
-Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://arxiv.org/abs/2103.01301) //arXiv preprint arXiv:2103.01301. – 2021.
+Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://ieeexplore.ieee.org/document/9504773) // 2021 IEEE Congress on Evolutionary Computation (CEC) – 2021.
 
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
 
