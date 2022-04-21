@@ -7,11 +7,13 @@
 
 <a href="https://github.com/nccr-itmo/FEDOT"><img src="fedot_logo2.jpg" alt="drawing" width="250" />
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
-
-Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
+ 
+Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea](https://www.sciencedirect.com/science/article/pii/S0098300422000267) //Computers & Geosciences. – 2022. – Т. 161. – С. 105061.
  
 Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
 
+Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
+ 
 Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.
 
 Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
@@ -31,6 +33,8 @@ The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You
 ### Bayesian Analytical and Modelling Toolkit
 #### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
 
+Andriushchenko P. et al. [Oil reservoir recovery factor assessment using Bayesian networks based on advanced approaches to analogues clustering](https://arxiv.org/abs/2204.00413) //arXiv preprint arXiv:2204.00413. – 2022.
+ 
 Deeva I., Andriushchenko P.D., Kalyuzhnaya A.V., Boukhanovsky A.V. [Bayesian Networks-based personal data synthesis](https://dl.acm.org/doi/abs/10.1145/3411170.3411243?casa_token=L3ckOXS-ocoAAAAA%3AgFfEnScGXFvW-A9clmUaRHuJtf5gl9-GVPRziORtfx1U5_e9CCQWWT9en7EC8BTJjmfg83JVLyTUCw) // ACM International Conference Proceeding Series - 2020, pp. 6-11
 
 Andriushchenko P.D.,Deeva I.Y., Kalyuzhnaya A.V., Bubnova А.V., Voskresensky А.G., Bukhanov N.V. [Analysis of parameters of oil and gas fields using Bayesian networks](https://elibrary.ru/item.asp?id=44382521) // Data Science in Oil and Gas 2020 - 2020. - С. 1-10
@@ -58,7 +62,19 @@ Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
 For more information, see [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs)/
+ 
+<img src="logo_gefest.png" alt="drawing" width="250" />
+#### GEFEST
+ 
+Georgii V. Grigorev, Nikolay O. Nikitin et al. [Single Red Blood Cell Hydrodynamic Traps Via the Generative Design](https://www.mdpi.com/2072-666X/13/3/367) // Micromachines, 2022
+ 
+Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003216599-82/multi-objective-optimisation-breakwaters-using-evolutionary-approach-nikolay-nikitin-iana-polonskaia-anna-kalyuzhnaya-alexander-boukhanovsky) //Developments in Maritime Technology and Engineering. – CRC Press, 2021. 
+ 
+Nikitin N. O. et al. [Generative design of microfluidic channel geometry using evolutionary approach](https://dl.acm.org/doi/abs/10.1145/3449726.3462740)//Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2021. 
+ 
+Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://arxiv.org/abs/2204.03400) //arXiv preprint arXiv:2204.03400. – 2022.
 
+ 
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
 
