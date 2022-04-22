@@ -47,7 +47,6 @@ The repository is available in  [github](https://github.com/ITMO-NSS-team/Bayesi
 
 ### EPDE framework
 #### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
-Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
 
@@ -61,7 +60,7 @@ Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
-For more information, see [FEDOT.Algs](https://github.com/ITMO-NSS-team/FEDOT.Algs)/
+For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)/
  
 <img src="logo_gefest.png" alt="drawing" width="250" />
 #### GEFEST
