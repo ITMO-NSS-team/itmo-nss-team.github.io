@@ -130,7 +130,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.jpg" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Mikhail Sarafanov, Dmitriy Capitan, Julia Borisova, Aksenkin Yaroslav, Tatiana Tikhonova,Yuri Kaminsky,Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maya Pinchuk, Roman Netrogolov, Peter Shevchenko, Julia Schwartzberg, Andrey Getmanov, Stebenkov Andrey, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Anastasia Yashchenko.
+And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Mikhail Sarafanov, Dmitrii  Kapitan, Julia Borisova, Aksenkin Yaroslav, Tatiana Tikhonova,Yuri Kaminsky,Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maya Pinchuk, Roman Netrogolov, Peter Shevchenko, Julia Schwartzberg, Andrey Getmanov, Stebenkov Andrey, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Anastasia Yashchenko.
 
 ## Towards Data Science articles
  
