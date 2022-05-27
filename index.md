@@ -16,8 +16,6 @@ Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composit
  
 Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.
 
-Nikitin N. O. et al. [Hybrid and Automated Machine Learning Approaches for Oil Fields Development: the Case Study of Volve Field, North Sea](https://arxiv.org/abs/2103.02598) //arXiv preprint arXiv:2103.02598. – 2021.
-
 Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://ieeexplore.ieee.org/document/9504773) // 2021 IEEE Congress on Evolutionary Computation (CEC) – 2021.
 
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
@@ -132,9 +130,11 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.jpg" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko.
+And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Mikhail Sarafanov, Dmitriy Capitan, Julia Borisova, Aksenkin Yaroslav, Tatiana Tikhonova,Yuri Kaminsky,Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maya Pinchuk, Roman Netrogolov, Peter Shevchenko, Julia Schwartzberg, Andrey Getmanov, Stebenkov Andrey, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Anastasia Yashchenko.
 
 ## Towards Data Science articles
+ 
+[Clean AutoML for “Dirty” Data](https://towardsdatascience.com/clean-automl-for-dirty-data-how-and-why-to-automate-preprocessing-of-tables-in-machine-learning-d79ac87780d3)
 
 [How AutoML helps to create composite AI?](https://towardsdatascience.com/how-automl-helps-to-create-composite-ai-f09e05287563)
 
@@ -143,6 +143,8 @@ And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Anastasia Yashchenko.
 [AutoML for time series: advanced approaches with FEDOT framework](https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c)
 
 ## Habr articles
+ 
+[Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/)
 
 [Как AutoML помогает создавать модели композитного ИИ — говорим о структурном обучении и фреймворке FEDOT](https://habr.com/ru/company/spbifmo/blog/558450/)
 
