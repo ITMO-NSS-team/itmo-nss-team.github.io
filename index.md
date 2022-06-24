@@ -144,6 +144,8 @@ And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Dmitrii  Kapitan, Yarosl
 
 ## Habr articles
  
+[Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/)
+ 
 [Чистый AutoML для “грязных” данных: как и зачем автоматизировать предобработку таблиц в машинном обучении](https://habr.com/ru/company/ods/blog/657525/)
 
 [Как AutoML помогает создавать модели композитного ИИ — говорим о структурном обучении и фреймворке FEDOT](https://habr.com/ru/company/spbifmo/blog/558450/)
@@ -151,5 +153,7 @@ And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Dmitrii  Kapitan, Yarosl
 [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/)
 
 [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/)
+ 
+ 
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
 
