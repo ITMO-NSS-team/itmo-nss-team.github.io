@@ -30,6 +30,14 @@ The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You
 
 ### Bayesian Analytical and Modelling Toolkit
 #### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
+ 
+Bubnova A., Deeva I., Kalyuzhnaya A.V. [MIxBN: library for learning Bayesian networks from mixed data](https://www.sciencedirect.com/science/article/pii/S1877050921020925) // Procedia Computer Science - 2021, Vol. 193, pp. 494-503
+ 
+Deeva I., Mossyayev A., Kalyuzhnaya A.V. [A Multimodal Approach to Synthetic Personal Data Generation with Mixed Modelling: Bayesian Networks, GAN’s and Classification Models](https://link.springer.com/chapter/10.1007/978-3-030-94822-1_55) // Lecture Notes of the Institute for Computer Sciences, Social Informatics and Telecommunications Engineering - 2022, Vol. 419, pp. 847-859
+ 
+Bezborodov A., Deeva I. [Networks clustering-based approach for search of reservoirs-analogues](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_30) // Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) - 2022, No. in press, pp. 1-7
+ 
+Безбородов А.К., Деева И.Ю. [Поиск месторождений-аналогов на основе кластеризации байесовских сетей](https://cyberleninka.ru/article/n/poisk-mestorozhdeniy-analogov-na-osnove-klasterizatsii-bayesovskih-setey) // Известия высших учебных заведений. Приборостроение - 2022. - Т. 65. - № 1. - С. 64-72
 
 Andriushchenko P. et al. [Oil reservoir recovery factor assessment using Bayesian networks based on advanced approaches to analogues clustering](https://arxiv.org/abs/2204.00413) //arXiv preprint arXiv:2204.00413. – 2022.
  
