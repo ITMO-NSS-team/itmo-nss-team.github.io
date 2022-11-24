@@ -133,12 +133,11 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="nn.jpg" alt="drawing" width="400"/>     | Nikolay Nikitin (nnikitin@itmo.ru)      |  AutoML and composite models, generative design of digital and physical objects, numerical optimization, environmental simulation |
 | <img src="ah.jpg" alt="drawing" width="400"/> |  Alexander Hvatov (alex_hvatov@itmo.ru)   |     Evolutionary algorithms for data-driven modeling, differential equations, acoustics, etc. |
 | <img src="id.jpg" alt="drawing" width="400"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
-| <img src="sm.jpg" alt="drawing" width="400"/> |  Mikhail Sarafanov (mik_sar@itmo.ru)      |    Time series forecasting, software development of an AutoML framework, remote sensing data processing|
 | <img src="ub.jpg" alt="drawing" width="400"/> |  Julia Borisova (jul.borisova@itmo.ru)      |    Time series processing and predictive modeling, hybridization and ensemble learning, geoinformatics tasks|
 | <img src="ir.jpg" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Dmitrii  Kapitan, Yaroslav Aksenkin, Tatiana Tikhonova, Yuri Kaminsky, Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Anastasia Yashchenko.
+And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Anna Litvinceva, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Grigory Yasnovidov, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Damir Aminev, Polina Andreeva, Anastasia Yashchenko.
 
 ## Towards Data Science articles
  
@@ -149,7 +148,8 @@ And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Dmitrii  Kapitan, Yarosl
 [AutoML for time series: definitely a good idea](https://towardsdatascience.com/automl-for-time-series-definitely-a-good-idea-c51d39b2b3f)
 
 [AutoML for time series: advanced approaches with FEDOT framework](https://towardsdatascience.com/automl-for-time-series-advanced-approaches-with-fedot-framework-4f9d8ea3382c)
-
+ 
+[What to Do If a Time Series Is Growing (But Not in Length)](https://towardsdatascience.com/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893)
 ## Habr articles
  
 [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/)
@@ -161,6 +161,8 @@ And Mikhail Maslyaev, Anna Bubnova, Petr Andryuschenko, Dmitrii  Kapitan, Yarosl
 [Прогнозирование временных рядов с помощью AutoML](https://habr.com/ru/post/559796/)
 
 [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/)
+
+ [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/)
  
  
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
