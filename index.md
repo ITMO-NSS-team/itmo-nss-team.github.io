@@ -79,7 +79,7 @@ Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evol
  
 Nikitin N. O. et al. [Generative design of microfluidic channel geometry using evolutionary approach](https://dl.acm.org/doi/abs/10.1145/3449726.3462740)//Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2021. 
  
-Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://arxiv.org/abs/2204.03400](https://ieeexplore.ieee.org/abstract/document/9870336) //arXiv preprint arXiv:2204.03400. – 2022.
+Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9870336) //arXiv preprint arXiv:2204.03400. – 2022.
 
  
 ### Metocean Simulation
