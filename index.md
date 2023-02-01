@@ -71,13 +71,15 @@ For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)/
 <img src="logo_gefest.png" alt="drawing" width="250" />
 #### GEFEST
  
+Starodubcev N. O. et al. [Generative design of physical objects using modular framework](https://www.sciencedirect.com/science/article/abs/pii/S0952197622007059) //Engineering Applications of Artificial Intelligence. – 2023.
+ 
 Georgii V. Grigorev, Nikolay O. Nikitin et al. [Single Red Blood Cell Hydrodynamic Traps Via the Generative Design](https://www.mdpi.com/2072-666X/13/3/367) // Micromachines, 2022
  
 Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003216599-82/multi-objective-optimisation-breakwaters-using-evolutionary-approach-nikolay-nikitin-iana-polonskaia-anna-kalyuzhnaya-alexander-boukhanovsky) //Developments in Maritime Technology and Engineering. – CRC Press, 2021. 
  
 Nikitin N. O. et al. [Generative design of microfluidic channel geometry using evolutionary approach](https://dl.acm.org/doi/abs/10.1145/3449726.3462740)//Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2021. 
  
-Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://arxiv.org/abs/2204.03400) //arXiv preprint arXiv:2204.03400. – 2022.
+Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://arxiv.org/abs/2204.03400](https://ieeexplore.ieee.org/abstract/document/9870336) //arXiv preprint arXiv:2204.03400. – 2022.
 
  
 ### Metocean Simulation
