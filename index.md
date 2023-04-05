@@ -8,6 +8,8 @@
 <a href="https://github.com/nccr-itmo/FEDOT"><img src="fedot_logo2.jpg" alt="drawing" width="250" />
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
  
+Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.
+ 
 Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea](https://www.sciencedirect.com/science/article/pii/S0098300422000267) //Computers & Geosciences. – 2022. – Т. 161. – С. 105061.
  
 Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
