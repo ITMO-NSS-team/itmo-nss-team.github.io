@@ -130,9 +130,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
 
-<details>
-
-<summary><h2>Some of us</h2></summary>
+<h2>Some of us</h2>
  
 | <img src="ak.jpg" alt="drawing" width="630"/> | Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML |
 
@@ -147,9 +145,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 
 And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Anna Litvinceva, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Grigory Yasnovidov, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Damir Aminev, Polina Andreeva, Anastasia Yashchenko.
- 
- 
-</details>
+
  
  
 ## Towards Data Science articles
