@@ -71,7 +71,8 @@ Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based
 For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)/
  
 <img src="logo_gefest.png" alt="drawing" width="250" />
-#### GEFEST
+
+#### GEFEST (Generative Evolution For Encoded STructures) is a toolbox for the generative design of physical objects.
  
 Starodubcev N. O. et al. [Generative design of physical objects using modular framework](https://www.sciencedirect.com/science/article/abs/pii/S0952197622007059) //Engineering Applications of Artificial Intelligence. – 2023.
  
@@ -130,7 +131,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
  
 <details>
 
-<summary>Some of us</summary>
+<summary><h3>Some of us</h3></summary>
 
 
 | Member        | Contacts           | Main scientific projects  |
