@@ -129,16 +129,7 @@ Noymanee J., Nikitin N. O., Kalyuzhnaya A. V. [Urban Pluvial Flood Forecasting u
 Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by crowdsourced atmospheric data](https://www.researchgate.net/publication/336079909_The_cities_weather_forecasting_by_crowdsourced_atmospheric_data)
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
- <details><summary>Open to view Data Dictionary</summary>
 
-|Feature|Format|Type|Description|
-|---|---|---|---|
-|**Id**|*integer*|Nominal|Identifier for each property.|
-|**PID**|*integer*|Nominal|Parcel identification number - can be usedwith city web site for parcel review.|
-|**MS SubClass**|*integer*|Nominal|Identifies the type of dwellinginvolved in the sale. Type is coded, please refer to full datadocumentation|
-|**MS Zoning**|*string*|Nominal|Identifies the general zoningclassification of the sale.|
-</details>
- 
 <details>
 
 <summary><h2>Some of us</h2></summary>
@@ -157,7 +148,9 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Anna Litvinceva, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Grigory Yasnovidov, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Damir Aminev, Polina Andreeva, Anastasia Yashchenko.
  
+ 
 </details>
+ 
  
 ## Towards Data Science articles
  
