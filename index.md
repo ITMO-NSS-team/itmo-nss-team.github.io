@@ -132,7 +132,6 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 
 <h2>Some of us</h2>
  
-| <img src="ak.jpg" alt="drawing" width="630"/> | Anna Kalyuzhnaya (anna.kalyuzhnaya@itmo.ru) | Head of NSS Laboratory and Master 's Program "Digital Geotechnologies." Probabilistic models of natural and social systems, generative methods AutoML |
 
 | Member        | Contacts           | Main scientific projects  |
 | ------------- |:-------------:| -------------:|
