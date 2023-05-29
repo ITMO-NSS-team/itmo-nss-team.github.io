@@ -12,17 +12,17 @@
  
   <summary>Click here to see related publications</summary>
  
-Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.
+Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.\
  
-Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea](https://www.sciencedirect.com/science/article/pii/S0098300422000267) //Computers & Geosciences. – 2022. – Т. 161. – С. 105061.
+Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea](https://www.sciencedirect.com/science/article/pii/S0098300422000267) //Computers & Geosciences. – 2022. – Т. 161. – С. 105061.\
  
-Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
+Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.\
 
-Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
+Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.\
  
-Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.
+Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.\
 
-Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://ieeexplore.ieee.org/document/9504773) // 2021 IEEE Congress on Evolutionary Computation (CEC) – 2021.
+Polonskaia I. S. et al. [Multi-Objective Evolutionary Design of Composite Data-Driven Models](https://ieeexplore.ieee.org/document/9504773) // 2021 IEEE Congress on Evolutionary Computation (CEC) – 2021.\
 
 Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient Mathematical Models with Evolutionary Learning](https://www.mdpi.com/1099-4300/23/1/28) //Entropy. – 2021. – Т. 23. – №. 1. – С. 28.
 
@@ -39,7 +39,7 @@ The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You
 <a href="https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit"><img src="bamt-logo.png" alt="drawing" width="250" />
  
 ### Bayesian Analytical and Modelling Toolkit
-#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values. </summary>
+#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
    
  <details>
  
