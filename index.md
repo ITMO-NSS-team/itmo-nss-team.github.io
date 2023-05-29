@@ -7,9 +7,10 @@
 
 <a href="https://github.com/nccr-itmo/FEDOT"><img src="fedot_logo2.jpg" alt="drawing" width="250" />
  
+#### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach. 
 <details>
  
-  <summary> #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach. </summary>
+  <summary>Click here to see related publications</summary>
  
 Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.
  
@@ -35,13 +36,14 @@ The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You
 
  </details>
  
- <details> 
+<a href="https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit"><img src="bamt-logo.png" alt="drawing" width="250" />
  
-<summary>### Bayesian Analytical and Modelling Toolkit
+### Bayesian Analytical and Modelling Toolkit
 #### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values. </summary>
    
- <a href="https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit"><img src="bamt_logo.jpg" alt="drawing" width="250" />
-
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
  
 Bubnova A., Deeva I., Kalyuzhnaya A.V. [MIxBN: library for learning Bayesian networks from mixed data](https://www.sciencedirect.com/science/article/pii/S1877050921020925) // Procedia Computer Science - 2021, Vol. 193, pp. 494-503
  
@@ -66,6 +68,11 @@ The repository is available in  [github](https://github.com/ITMO-NSS-team/Bayesi
 
 ### EPDE framework
 #### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
+ 
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
+ 
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
 
@@ -80,10 +87,16 @@ Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
 For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)/
+  
+ </details>
  
-<img src="logo_gefest.png" alt="drawing" width="250" />
+<a href="https://github.com/aimclub/GEFEST"><img src="logo_gefest.png" alt="drawing" width="250" />
 
 #### GEFEST (Generative Evolution For Encoded STructures) is a toolbox for the generative design of physical objects.
+ 
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
  
 Starodubcev N. O. et al. [Generative design of physical objects using modular framework](https://www.sciencedirect.com/science/article/abs/pii/S0952197622007059) //Engineering Applications of Artificial Intelligence. – 2023.
  
@@ -94,10 +107,16 @@ Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evol
 Nikitin N. O. et al. [Generative design of microfluidic channel geometry using evolutionary approach](https://dl.acm.org/doi/abs/10.1145/3449726.3462740)//Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2021. 
  
 Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9870336) //arXiv preprint arXiv:2204.03400. – 2022.
+ 
+ </details>
 
  
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
+ 
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
 
 Sarafanov M. et al. [A Machine Learning Approach for Remote Sensing Data Gap-Filling with Open-Source Implementation: An Example Regarding Land Surface Temperature, Surface Albedo and NDVI](https://www.mdpi.com/2072-4292/12/23/3865) //Remote Sensing. – 2020. – Т. 12. – №. 23. – С. 3865.
 
@@ -118,9 +137,15 @@ Vychuzhanin P., Hvatov A., Kalyuzhnaya A. V. [Anomalies Detection in Metocean Si
 Vychuzhanin P., Nikitin N. O., Kalyuzhnaya A. V. [Robust Ensemble-Based Evolutionary Calibration of the Numerical Wind Wave Model](https://www.researchgate.net/publication/333665595_Robust_Ensemble-Based_Evolutionary_Calibration_of_the_Numerical_Wind_Wave_Model)
  //International Conference on Computational Science. – Springer, Cham, 2019. – С. 614-627. [View on GitHub](https://github.com/ITMO-NSS-team/Deadline-driven-surrogate-optimisation)
 
+   </details>
+ 
 ### Social Media Study
 
 #### Investigation of social media profiles and activities for personality prediction 
+ 
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
 
 Deeva I. [Computational Personality Prediction Based on Digital Footprint of a Social Media User](https://www.researchgate.net/publication/335527567_Computational_Personality_Prediction_Based_on_Digital_Footprint_of_A_Social_Media_User) //Procedia Computer Science. – 2019. – Т. 156. – С. 185-193.
 
@@ -128,10 +153,16 @@ Kalyuzhnaya A. V. et al. [Precedent-Based Approach for the Identification of Dev
 
 Uteuov A. [Topic model for online communities’ interests prediction](https://www.researchgate.net/publication/336081707_Topic_model_for_online_communities%27_interests_prediction)
  //Procedia Computer Science. – 2019. – Т. 156. – С. 204-213.
+  
+  </details>
  
 ### Weather Forecasting
 
 #### Forecasting of natural accidents and weather conditions 
+ 
+ <details>
+ 
+ <summary>Click here to see related publications</summary>
 
 Nikitin N. O. et al. [Statistics-based models of flood-causing cyclones for the Baltic Sea region](https://www.sciencedirect.com/science/article/pii/S1877050916326990) //Procedia Computer Science. – 2016. – Т. 101. – С. 272-281.
 
@@ -140,6 +171,7 @@ Noymanee J., Nikitin N. O., Kalyuzhnaya A. V. [Urban Pluvial Flood Forecasting u
 Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by crowdsourced atmospheric data](https://www.researchgate.net/publication/336079909_The_cities_weather_forecasting_by_crowdsourced_atmospheric_data)
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
+    </details>
 
 <h2>Some of us</h2>
  
