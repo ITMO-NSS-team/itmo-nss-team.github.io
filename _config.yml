@@ -1,6 +1,6 @@
 title: "NSS Lab"
 date: 2020-03-26
-remote_theme: pages-themes/primer
+remote_theme: pages-themes/cayman@v0.2.0
 description: > # this means to ignore newlines until "baseurl:"
   Our laboratory is part of the National Center for Cognitive Technologies (ITMO University, Russia), which provides cutting-edge software and algorithmic solutions. We focus on natural systems simulations, generative design of real and virtual objects, data-driven modeling, automated machine learning.
 # social links
