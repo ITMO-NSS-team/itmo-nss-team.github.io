@@ -171,7 +171,9 @@ Noymanee J., Nikitin N. O., Kalyuzhnaya A. V. [Urban Pluvial Flood Forecasting u
 Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by crowdsourced atmospheric data](https://www.researchgate.net/publication/336079909_The_cities_weather_forecasting_by_crowdsourced_atmospheric_data)
  //Procedia Computer Science. – 2019. – Т. 156. – С. 347-356.
  
-    </details>
+ </details>
+ 
+ 
 
 <h2>Some of us</h2>
  
