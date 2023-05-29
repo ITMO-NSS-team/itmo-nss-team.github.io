@@ -77,7 +77,7 @@ Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
-For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)/
+For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)
   
 
 <a href="https://github.com/aimclub/GEFEST"><img src="logo_gefest.png" alt="drawing" width="250" />
