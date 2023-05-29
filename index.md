@@ -6,7 +6,10 @@
 ## Here are some of our projects:
 
 <a href="https://github.com/nccr-itmo/FEDOT"><img src="fedot_logo2.jpg" alt="drawing" width="250" />
-#### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach.
+ 
+<details>
+ 
+  <summary> #### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach. </summary>
  
 Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.
  
@@ -30,8 +33,15 @@ Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scori
 
 The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You can find documentation [here.](https://itmo-nss-team.github.io/FEDOT.Docs/)
 
-### Bayesian Analytical and Modelling Toolkit
-#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
+ </details>
+ 
+ <details> 
+ 
+<summary>### Bayesian Analytical and Modelling Toolkit
+#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values. </summary>
+   
+ <a href="https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit"><img src="bamt_logo.jpg" alt="drawing" width="250" />
+
  
 Bubnova A., Deeva I., Kalyuzhnaya A.V. [MIxBN: library for learning Bayesian networks from mixed data](https://www.sciencedirect.com/science/article/pii/S1877050921020925) // Procedia Computer Science - 2021, Vol. 193, pp. 494-503
  
@@ -52,6 +62,7 @@ Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. �
 
 The repository is available in  [github](https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit)
 
+</details>
 
 ### EPDE framework
 #### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
