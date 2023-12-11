@@ -4,18 +4,15 @@
 
 
 ## Here are some of our projects:
-
-<a href="https://github.com/nccr-itmo/FEDOT"><img src="fedot_logo2.jpg" alt="drawing" width="250" />
  
-#### [FEDOT](https://github.com/nccr-itmo/FEDOT) is a framework for automated machine learning. It can build composite pipelines for the different real-world processes in an automated way using an evolutionary approach. 
+### AutoML
+#### [FEDOT](https://github.com/nccr-itmo/FEDOT), [FEDOT.Industrial](https://github.com/aimclub/Fedot.Industrial) and [GAMLET](https://github.com/ITMO-NSS-team/GAMLET) (Meta-AutoML).
 
  
 Revin I. et al. [Automated machine learning approach for time series classification pipelines using evolutionary optimisation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123002332) //Knowledge-Based Systems. – 2023. – С. 110483.
  
 Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil fields development: The case study of Volve field, North Sea](https://www.sciencedirect.com/science/article/pii/S0098300422000267) //Computers & Geosciences. – 2022. – Т. 161. – С. 105061.
  
-Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
-
 Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
  
 Sarafanov M., Nikitin N. O., Kalyuzhnaya A. V. [Automated data-driven approach for gap filling in the time series using evolutionary learning](https://link.springer.com/chapter/10.1007/978-3-030-87869-6_60) // Advances in Intelligent Systems and Computing book series, volume 1401 – 2021.
@@ -27,17 +24,9 @@ Kalyuzhnaya A. V. et al. [Towards Generative Design of Computationally Efficient
 Nikitin N.O., Polonskaia I.S., Vychuzhanin P., Barabanova I.V., Kalyuzhnaya  A.V. [Structural Evolutionary Learning for Composite Classification Models](https://www.sciencedirect.com/science/article/pii/S1877050920324224) //Procedia computer science. – 2020. – Т. 178. – C. 414-423.
 
 Kalyuzhnaya A. V. et al. [Automatic evolutionary learning of composite models with knowledge enrichment](https://dl.acm.org/doi/pdf/10.1145/3377929.3398167?casa_token=vjmVJTzfcf8AAAAA:juxWF2cvTe4vwR9EDqkt7_UWwH3TuwKW4jo7rv-d5kBT6cV7qMhDTvz3nMOsShnLXWCFvC39k3Hd) //Proceedings of the 2020 Genetic and Evolutionary Computation Conference Companion. – 2020. – С. 43-44.
-
-Nikitin N. O. et al. [Evolutionary ensemble approach for behavioral credit scoring](https://www.researchgate.net/publication/325714407_Evolutionary_Ensemble_Approach_for_Behavioral_Credit_Scoring?_sg=mdIOU8V3dznIXWbudhKw29tyU8xmkYlpDKr0wO8RlfLyaYhwZBMGQBQwBZVbfxakx73iZwVKLR0e46o3XgAPR2Wmdbg) //International Conference on Computational Science. – Springer, Cham, 2018. – С. 825-831.
-
-The repository is available in [github](https://github.com/nccr-itmo/FEDOT). You can find documentation [here.](https://itmo-nss-team.github.io/FEDOT.Docs/)
-
-
  
-<a href="https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit"><img src="bamt-logo.png" alt="drawing" width="250" />
- 
-### Bayesian Analytical and Modelling Toolkit
-#### It is a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
+### Probabilistic modelling
+#### [BAMT](https://github.com/aimclub/BAMT) - a data modeling and analysis tool based on Bayesian networks. It can be divided into two main parts - algorithms for constructing and training Bayesian networks on data and algorithms for applying Bayesian networks for filling gaps, generating synthetic data, and searching for anomalous values.
  
 Bubnova A., Deeva I., Kalyuzhnaya A.V. [MIxBN: library for learning Bayesian networks from mixed data](https://www.sciencedirect.com/science/article/pii/S1877050921020925) // Procedia Computer Science - 2021, Vol. 193, pp. 494-503
  
@@ -56,14 +45,12 @@ Andriushchenko P.D.,Deeva I.Y., Kalyuzhnaya A.V., Bubnova А.V., Voskresensky А
 Deeva I. et al. [Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning of 
 Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. – 2021.
 
-The repository is available in  [github](https://github.com/ITMO-NSS-team/Bayesian-Analytical-and-Modelling-Toolkit)
+
+### 
 
 
-
-### EPDE framework
-#### EPDE is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
-
- 
+### Equation discovery
+#### [EPDE](https://github.com/ITMO-NSS-team/EPDE) is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
 
 Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Differential Equations Discovery Approach for the Noised Multi-dimensional Data](https://dl.acm.org/doi/abs/10.1145/3377929.3398167) //International Conference on Computational Science. – Springer, Cham, 2020. – С. 86-100.
 
@@ -77,31 +64,26 @@ Maslyaev M., Hvatov A., Kalyuzhnaya A. [Data-Driven Partial Derivative Equations
 
 Maslyaev M., Hvatov A. [Discovery of the data-driven differential equation-based models of continuous metocean process](https://www.sciencedirect.com/science/article/pii/S1877050919311329) //Procedia Computer Science. – 2019. – Т. 156. – С. 367-376.
 
-For more information, see [EPDE](https://github.com/ITMO-NSS-team/EPDE)
-  
-
-<a href="https://github.com/aimclub/GEFEST"><img src="logo_gefest.png" alt="drawing" width="250" />
-
-#### GEFEST (Generative Evolution For Encoded STructures) is a toolbox for the generative design of physical objects.
+#### Generative design
+[GEFEST](https://github.com/ITMO-NSS-team/GEFEST) - toolbox for the generative design of physical objects and [GOLEM](https://github.com/aimclub/GOLEM) - optimizer for DAGs.
  
-
+Solovev G. V. et al. [AI Framework for Generative Design of Computational Experiments with Structures in Physical Environment](https://openreview.net/forum?id=2QMmoG1UCQ) //NeurIPS 2023 AI for Science Workshop. – 2023.
  
 Starodubcev N. O. et al. [Generative design of physical objects using modular framework](https://www.sciencedirect.com/science/article/abs/pii/S0952197622007059) //Engineering Applications of Artificial Intelligence. – 2023.
  
 Georgii V. Grigorev, Nikolay O. Nikitin et al. [Single Red Blood Cell Hydrodynamic Traps Via the Generative Design](https://www.mdpi.com/2072-666X/13/3/367) // Micromachines, 2022
  
 Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003216599-82/multi-objective-optimisation-breakwaters-using-evolutionary-approach-nikolay-nikitin-iana-polonskaia-anna-kalyuzhnaya-alexander-boukhanovsky) //Developments in Maritime Technology and Engineering. – CRC Press, 2021. 
+
+Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9870336) // 2022 IEEE Congress on Evolutionary Computation (CEC). – IEEE, 2022. – С. 1-8.
  
 Nikitin N. O. et al. [Generative design of microfluidic channel geometry using evolutionary approach](https://dl.acm.org/doi/abs/10.1145/3449726.3462740)//Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2021. 
  
-Starodubcev N. O., Nikitin N. O., Kalyuzhnaya A. V. [Surrogate-Assisted Evolutionary Generative Design Of Breakwaters Using Deep Convolutional Networks](https://ieeexplore.ieee.org/abstract/document/9870336) //arXiv preprint arXiv:2204.03400. – 2022.
- 
-
  
 ### Metocean Simulation
 #### Creation and calibration of metocean simulation models for data restoration, anomalies or patterns detection
  
- 
+ Sarafanov M. et al. [Short-Term River Flood Forecasting Using Composite Models and Automated Machine Learning: The Case Study of Lena River](https://www.mdpi.com/2073-4441/13/24/3482) // Water. – 2021.
 
 Sarafanov M. et al. [A Machine Learning Approach for Remote Sensing Data Gap-Filling with Open-Source Implementation: An Example Regarding Land Surface Temperature, Surface Albedo and NDVI](https://www.mdpi.com/2072-4292/12/23/3865) //Remote Sensing. – 2020. – Т. 12. – №. 23. – С. 3865.
 
@@ -113,7 +95,7 @@ Deeva I., Nikitin N. O., Kaluyzhnaya A. V. [Pattern recognition in Non-Stationar
 Hvatov A. et al. [Adaptation of NEMO-LIM3 model for multi-grid high-resolutional Arctic simulation](https://www.researchgate.net/publication/335092481_Adaptation_of_NEMO-LIM3_model_for_multigrid_high_resolution_Arctic_simulation)
 //Ocean Modelling. – 2019. – Т. 141. – С. 101427. [View on GitHub](https://github.com/ITMO-NSS-team/nemo-multigrid-adaptation)
 
-Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://arxiv.org/abs/2004.03010) //arXiv preprint arXiv:2004.03010. – 2020.
+Nikitin N. O. et al. [The multi-objective optimisation of breakwaters using evolutionary approach](https://arxiv.org/abs/2004.03010) //Maritime Technology and Engineering 5 Volume 2. – CRC Press, 2021. – С. 767-774.
 
 Nikitin N. O. et al. [Deadline-driven approach for multi-fidelity surrogate-assisted environmental model calibration: SWAN wind wave model case study](https://dl.acm.org/doi/abs/10.1145/3319619.3326876) //Proceedings of the Genetic and Evolutionary Computation Conference Companion. – 2019. – С. 1583-1591. [View on GitHub](https://github.com/ITMO-NSS-team/FEDOT.Algs)
 
@@ -164,9 +146,8 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.png" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Starodubtsev, Sergey Pakulin, Nikita Kovalev, Denis Sidorenko, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Anna Litvinceva, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Grigory Yasnovidov, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Damir Aminev, Polina Andreeva, Anastasia Yashchenko.
+And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Kovalev, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Gleb Soloviev, Damir Aminev, Polina Andreeva, Anastasia Yashchenko.
 
- 
  
 ## Towards Data Science articles
  
@@ -192,7 +173,10 @@ And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsk
 [Как мы “повернули реки вспять” на Emergency DataHack 2021, объединив гидрологию и AutoML](https://habr.com/ru/post/577886/)
 
  [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/)
+
+ ## Open-Source initiative
+
+ITMO.Opensource [chat](https://t.me/itmo_opensource) and [repository](https://github.com/ITMO-NSS-team/open-source-ops).
  
- 
-# Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group) and [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya) 
+# Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group), [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya), [colab.ws](https://colab.ws/labs/254)
 
