@@ -175,7 +175,7 @@ And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov
 
  [Что делать, если твой временной ряд растёт вширь](https://habr.com/ru/post/696336/)
 
- ## Open-Source initiative
+## Open-Source initiative
 
 ITMO.Opensource [chat](https://t.me/itmo_opensource) and [repository](https://github.com/ITMO-NSS-team/open-source-ops).
  
