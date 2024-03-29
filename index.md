@@ -147,7 +147,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="gk.jpg" alt="drawing" width="400"/> |  Grigorii Kirgizov (gvkirgizov@itmo.ru)     |    Evolutionary optimization, Graph optimization, AutoML, Reinforcement Learning|
 
 
-And Egor Shikov, Mikhail Maslyaev, Anna Bubnova, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Kovalev, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elena Egorova, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Elizaveta Tarasova, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Grigory Kirgizov, Gleb Soloviev, Damir Aminev, Polina Andreeva, Elena Ilinskaya.
+And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Egor Shikov, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Maksimenko Artem, Petrov Oleg, Rubin Ivan, Sokolov Ilya, Elena Ilinskaya.
 
  
 ## Towards Data Science articles
