@@ -144,10 +144,9 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="id.jpg" alt="drawing" width="400"/> |  Irina Deeva (ideeva@itmo.ru)      |    Bayesian networks, synthetic data generation, statistical analysis of multivariate data, social data modeling|
 | <img src="ub.jpg" alt="drawing" width="400"/> |  Julia Borisova (jul.borisova@itmo.ru)      |    Time series processing and predictive modeling, hybridization and ensemble learning, geoinformatics tasks|
 | <img src="ir.png" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
-| <img src="gk.jpg" alt="drawing" width="400"/> |  Grigorii Kirgizov (gvkirgizov@itmo.ru)     |    Evolutionary optimization, Graph optimization, AutoML, Reinforcement Learning|
 
 
-And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Egor Shikov, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Maksimenko Artem, Petrov Oleg, Rubin Ivan, Sokolov Ilya, Elena Ilinskaya.
+And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Egor Shikov, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Maksimenko Artem, Petrov Oleg, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Smolyanov Nikolay, Elena Ilinskaya.
 
  
 ## Towards Data Science articles
