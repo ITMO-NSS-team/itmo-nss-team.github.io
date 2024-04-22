@@ -161,6 +161,8 @@ And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov
  
 [What to Do If a Time Series Is Growing (But Not in Length)](https://towardsdatascience.com/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893)
 ## Habr articles
+
+[Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455/)
  
 [Про настройку гиперпараметров ансамблей моделей машинного обучения](https://habr.com/ru/post/672486/)
  
