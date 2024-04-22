@@ -46,9 +46,6 @@ Deeva I. et al. [Oil and Gas Reservoirs Parameters Analysis Using Mixed Learning
 Networks](https://arxiv.org/abs/2103.01804) //arXiv preprint arXiv:2103.01804. – 2021.
 
 
-### 
-
-
 ### Equation discovery
 #### [EPDE](https://github.com/ITMO-NSS-team/EPDE) is a framework for differential equation discovery, that inspires researches to create new models in an understandable mathematical form.
 
