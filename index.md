@@ -143,7 +143,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.png" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Egor Shikov, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Valery Pokrovsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Peter Shevchenko, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Maksimenko Artem, Petrov Oleg, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Smolyanov Nikolay, Elena Ilinskaya.
+And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Smolyanov Nikolay, Elena Ilinskaya, Strelkov Leon, Monnar Ivan, Malysheva Elizaveta, Krylov Viktor, Hilchuk Maria.
 
  
 ## Towards Data Science articles
@@ -158,6 +158,8 @@ And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov
  
 [What to Do If a Time Series Is Growing (But Not in Length)](https://towardsdatascience.com/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893)
 ## Habr articles
+
+[Прогнозируем движение льда в Арктике с помощью фреймворка автоматически собираемых сверток](https://habr.com/ru/companies/selectel/articles/818649/)
 
 [Open Source в российском ИИ: исследование ландшафта](https://habr.com/ru/companies/spbifmo/articles/805455/)
  
