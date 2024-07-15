@@ -143,7 +143,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.png" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Balabanov, Maiia Pinchuk, Elizaveta Lucenko, Roman Netrogolov, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Smolyanov Nikolay, Elena Ilinskaya, Strelkov Leon, Monnar Ivan, Malysheva Elizaveta, Krylov Viktor, Hilchuk Maria.
+And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Mardyshkin Rostislav, Markov Ilya, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Balabanov, Elizaveta Lucenko, Roman Netrogolov, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Lyubov Yamshchikova, Karine Shakhkyan, Potemkin Vadim, Titov Roman, Gleb Soloviev, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Elena Ilinskaya, Strelkov Leon, Monnar Ivan, Malysheva Elizaveta, Krylov Viktor, Hilchuk Maria, Andrey Dolgov, Zhidkovskaya Anna, George Lopatenko, Pinchuk Maya, Fathiev Kamil, Kirill Fedorin, Lapin Alexey.
 
  
 ## Towards Data Science articles
