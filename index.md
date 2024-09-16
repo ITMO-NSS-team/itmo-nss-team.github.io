@@ -143,7 +143,7 @@ Uteuov A., Kalyuzhnaya A., Boukhanovsky A. [The cities weather forecasting by cr
 | <img src="ir.png" alt="drawing" width="400"/> |  Ilya Revin (ierevin@itmo.ru)     |    Machine learning methods for seismic exploration and oil reservoir engeeniring, environmental dynamical system modeling, time series analysis|
 
 
-And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Markov Ilya, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Balabanov, Elizaveta Lucenko, Roman Netrogolov, Julia Shvarcberg, Andrey Getmanov, Stebenkov Andrey, Potemkin Vadim, Titov Roman, Gleb Soloviev, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Elena Ilinskaya, Strelkov Leon, Monnar Ivan, Malysheva Elizaveta, Krylov Viktor, Hilchuk Maria, Andrey Dolgovyazov, Zhidkovskaya Alina, Georgiy Lopatenko, Fathiev Kamil, Kirill Fedorin, Lapin Alexey, Dubrovsky Ivan, Yezhov Danil.
+And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov Ivan, Markov Ilya, Mikhail Maslyaev, Yaroslav Aksenkin, Yuri Kaminsky, Nikita Balabanov, Elizaveta Lucenko, Roman Netrogolov, Julia Shvarcberg, Andrey Getmanov, Potemkin Vadim, Titov Roman, Gleb Soloviev, Rubin Ivan, Sokolov Ilya, Gabdrakhmanov Rustam, Dmitry Gusarov, Ilya Galyukshev, Elena Ilinskaya, Strelkov Leon, Monnar Ivan, Malysheva Elizaveta, Krylov Viktor, Hilchuk Maria, Andrey Dolgovyazov, Zhidkovskaya Alina, Georgiy Lopatenko, Fathiev Kamil, Kirill Fedorin, Lapin Alexey, Dubrovsky Ivan, Yezhov Danil, Iov Illarion, Guryev Ivan, Alyona Kropacheva, Vladimir Latypov, Stanislav Chumakov.
 
  
 ## Towards Data Science articles
@@ -158,6 +158,10 @@ And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov
  
 [What to Do If a Time Series Is Growing (But Not in Length)](https://towardsdatascience.com/what-to-do-if-a-time-series-is-growing-but-not-in-length-421fc84c6893)
 ## Habr articles
+
+[Яндекс, Сбер и Т-Банк: ИТМО назвал лидеров Open Source в России](https://habr.com/ru/companies/spbifmo/news/843698/)
+
+[Как мы развиваем библиотеку для анализа данных с помощью байесовских сетей](https://habr.com/ru/companies/spbifmo/articles/838598/)
 
 [Прогнозируем движение льда в Арктике с помощью фреймворка автоматически собираемых сверток](https://habr.com/ru/companies/selectel/articles/818649/)
 
@@ -178,6 +182,8 @@ And Bashkova Ksenia, Ivanchik Elizaveta, Kuptsov Ilya, Kuznetsov Andrey, Lobanov
 ## Open-Source initiative
 
 ITMO.Opensource [chat](https://t.me/itmo_opensource) and [repository](https://github.com/ITMO-NSS-team/open-source-ops).
+
+[Исследование «Использование ML/Data-опенсорса в России»](https://opensource.itmo.ru)
  
 # Follow us via [GitHub](https://github.com/ITMO-NSS-team), [YouTube](https://www.youtube.com/channel/UC4K9QWaEUpT_p3R4FeDp5jA), [Telegram](https://t.me/NSS_group), [ResearchGate](https://www.researchgate.net/lab/Natural-Systems-Simulation-Team-Anna-Kalyuzhnaya), [colab.ws](https://colab.ws/labs/254)
 
