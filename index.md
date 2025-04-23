@@ -3,12 +3,10 @@
 <img src="head.png" alt="drawing"/>  
 
 
-## Here are some of our projects:
+## Here are some of our projects and main papers:
 
 ### AutoML
 #### [FEDOT](https://github.com/nccr-itmo/FEDOT), [FEDOT.Industrial](https://github.com/aimclub/Fedot.Industrial).
-
-**Main papers**:
 
 Nikitin N. O. et al. [Integration of evolutionary automated machine learning with structural sensitivity analysis for composite pipelines](https://www.sciencedirect.com/science/article/pii/S0950705124009973) //Knowledge-Based Systems. – 2024. – Т. 302. – С. 112363.
 
@@ -19,7 +17,7 @@ Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil f
 Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
 
  ### AI4Science and LLM agents
-  #### [ProtoLLM](https://github.com/aimclub/ProtoLLM), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor)
+ #### [ProtoLLM](https://github.com/aimclub/ProtoLLM), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor)
 
 - Solovev G. V. et al. Towards LLM-Driven Multi-Agent Pipeline for Drug Discovery: Neurodegenerative Diseases Case Study //AAAI 2024 2nd AI4Research Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle.
 - Kalyuzhnaya A. et al. LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems //Smart Cities (2624-6511). – 2025. – Т. 8. – №. 1.
