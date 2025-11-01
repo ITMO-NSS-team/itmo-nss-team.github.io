@@ -2,7 +2,7 @@ title: "NSS Lab"
 date: 2020-03-26
 remote_theme: pages-themes/cayman@v0.2.0
 description: > # this means to ignore newlines until "baseurl:"
-  Our laboratory is part of the National Center for Cognitive Technologies (ITMO University, Russia), which provides cutting-edge software and algorithmic solutions. We focus on natural systems simulations, generative design of real and virtual objects, data-driven modeling, automated machine learning.
+  Our laboratory is part of the AI Institute, ITMO University (Saint-Petersburg, Russia), which provides cutting-edge research and open-source tools. We focus on AI-agents, generative design, automated and physics-informed machine learning.
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  https://github.com/ITMO-NSS-team # DO NOT include the @ character, or else the build will fail!
