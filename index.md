@@ -17,8 +17,9 @@ Nikitin N. O. et al. [Hybrid and automated machine learning approaches for oil f
 Nikitin N. O. et al. [Automated Evolutionary Approach for the Design of Composite Machine Learning Pipelines](https://doi.org/10.1016/j.future.2021.08.022) // Future Generation Computer Systems. – 2021.
 
 ### AI4Science and LLM agents
-#### [ProtoLLM](https://github.com/aimclub/ProtoLLM), [OSA](https://github.com/ITMO-NSS-team/Open-Source-Advisor)
+#### [CoScientist](https://github.com/itmo-nss-team/CoScientist), [OSA](https://github.com/aimclub/OSA), [ProtoLLM](https://github.com/aimclub/ProtoLLM)
 
+- Nikitin N. et al. An LLM-Powered Tool for Enhancing Scientific Open-Source Repositories //Championing Open-source DEvelopment in ML Workshop@ ICML25.
 - Solovev G. V. et al. Towards LLM-Driven Multi-Agent Pipeline for Drug Discovery: Neurodegenerative Diseases Case Study //AAAI 2024 2nd AI4Research Workshop: Towards a Knowledge-grounded Scientific Research Lifecycle.
 - Kalyuzhnaya A. et al. LLM Agents for Smart City Management: Enhancing Decision Support Through Multi-Agent AI Systems //Smart Cities (2624-6511). – 2025. – Т. 8. – №. 1.
 - Gubina N. et al. [Hybrid Generative AI for De Novo Design of Co-Crystals with Enhanced Tabletability](https://openreview.net/forum?id=G4vFNmraxj) //The Thirty-eighth Annual Conference on Neural Information Processing Systems, 2024.
